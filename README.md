@@ -1,5 +1,5 @@
 ## Hierarchial Clustering using R
-```Applying Agglomerative Hierarchial Clustering on "utilities.csv" to create custers based on Company.```
+```Applying Agglomerative Hierarchial Clustering on "utilities.csv" to create custers based on company location.```
 
 ```The following two figures shows the scatter plot of "Fuel_Cost" and "ROR_Sales" by "Company".```
 ![FuelCost_Sales](https://user-images.githubusercontent.com/75041273/134766448-bf871684-9d21-4092-b539-7ee45715c07c.jpeg)
